@@ -14,4 +14,4 @@ elif cargo == "estagiário":
     else:
         print("Acesso negado.")
 else:
-    print("Cargo não reconhecido. Acesso negado.")
+    print("Cargo não reconhecido. Acesso negado..")
