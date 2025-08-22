@@ -1,0 +1,6 @@
+ git init
+ git config --global user.name "lipevisionario"
+ git config --global user.email "feliperodriguesgarciaedavi@gmail.com"
+ git branch -M main
+ git remote add origin https://github.com/lipevisionario/rep-nuvem.git
+ git pull origin main
